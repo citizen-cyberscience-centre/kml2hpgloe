@@ -19,4 +19,4 @@ or
 ```
 
 # License
-[GPLv3](COPYING) (check COPYING file)
+This is script is licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html). Please, check the COPYING file.
