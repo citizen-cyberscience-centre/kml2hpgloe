@@ -1,4 +1,4 @@
-kml2hpgloe is a script that parses a KML file and uploads its images to
+kml2hpgloe is a script that parses a KML file and recommends image links found in the <Description> tag in
 [HP-Gloe](http://www.hpgloe.com/).
 
 # Installation
